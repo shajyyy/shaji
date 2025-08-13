@@ -45,13 +45,12 @@
         <a href="https://linkedin.com/in/shajiyyy" target="_blank">LinkedIn</a>
     </div>
 </div>
-
 <hr>
 
 <div class="section">
     <h2>Education</h2>
     <p><strong>Bachelor of Computer Applications</strong> — <strong>St. Philomena's College</strong><br>
-    <em>2023</em> — CGPA: 7.94/10</p>
+    <em>2023</em> — CGPA: 7/10</p>
 </div>
 
 <hr>
@@ -78,7 +77,7 @@
 <div class="section">
     <h2>Achievements</h2>
     <ul>
-        <li>Represented college at Inter-college Football Tournament</li>
+        <li>Represented college at amrita university by mobile gaming eSports</li>
         <li>Demonstrated strong problem-solving skills during BCA coursework</li>
     </ul>
 </div>
